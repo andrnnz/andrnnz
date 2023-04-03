@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+div id="header" style="text-align: center">
+    <h1> Hi, I'm Andru</h1>
+    <iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" allowFullScreen></iframe>>
+</div>
+
 <!--
 **andrnnz/andrnnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
